@@ -5,8 +5,7 @@
                                             ###         Elkin Smith Guzman Rojas        ###
                                             ###############################################
                                             ###############################################
-
-
+#####
 # — — — — — — — — — — — — - Backend Layer, Figure Canvas Layer: Encompases area in which figures are drawn — — — — — — — — — — — — -
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanva
 
